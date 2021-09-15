@@ -3,14 +3,14 @@ h1.Welkom{
    font-family: verdana;
    color:green;
 }
-ul{
+ul.menu{
   border:5px solid DarkRed;
   border-radius: 10px;
   padding: 10px;
   background-color: black;
   width: 267px;
 }
-li{
+li.menu{
   padding:3px;
   border: 5px solid Maroon;
   display: inline;
