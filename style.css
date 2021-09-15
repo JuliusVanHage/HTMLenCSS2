@@ -1,7 +1,12 @@
 h1.Welkom{
    font-size:50px;
-   font-family: verdana;
-   color:green;
+   font-family: consolas;
+   color:#004D0D;
+   text-shadow:
+    -2px -2px 0 black,
+    2px -2px 0 black,
+    -2px 2px 0 black,
+    2px 2px 0 black;
 }
 ul.menu{
   border:5px solid DarkRed;
@@ -27,4 +32,7 @@ footer{
   font-family: verdana;
   font-size: 8px;
   color: gray;
+}
+body{
+  background-color: #FF4D4D;
 }
