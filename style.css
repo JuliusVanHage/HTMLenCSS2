@@ -8,7 +8,7 @@ ul{
   border-radius: 10px;
   padding: 10px;
   background-color: black;
-  width: 270px;
+  width: 267px;
 }
 li{
   padding:3px;
@@ -18,4 +18,13 @@ li{
 a{
   font-family: fantasy;
   color:tomato;
+}
+footer{
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+  font-family: verdana;
+  font-size: 8px;
+  color: gray;
 }
