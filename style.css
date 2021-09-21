@@ -20,6 +20,9 @@ li.menu{
   border: 5px solid Maroon;
   display: inline;
 }
+li.gedaanlijst{
+  font-family: consolas;
+}
 a{
   font-family: fantasy;
   color:tomato;
@@ -35,4 +38,12 @@ footer{
 }
 body{
   background-color: #FF4D4D;
+}
+h1.watikgedaanheb{
+  font-family: consolas;
+}
+img{
+  position: fixed;
+  top: 100px;
+  left: 500px;
 }
