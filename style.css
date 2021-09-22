@@ -20,13 +20,17 @@ li.menu{
   border: 5px solid Maroon;
   display: inline;
 }
-li.gedaanlijst{
+a.gedaanf{
+  font-size: 30px;
   font-family: consolas;
+  font-weight: bolder;
+  color:black;
 }
-a{
+a.menu{
   font-family: fantasy;
   color:tomato;
 }
+
 footer{
   position: fixed;
   text-align: center;
@@ -46,4 +50,7 @@ img{
   position: fixed;
   top: 100px;
   left: 500px;
+}
+h2{
+  font-family: consolas;
 }
