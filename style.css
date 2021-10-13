@@ -1,4 +1,7 @@
-h1.Welkom{
+img.lampje{
+  width: 55%
+}
+header.Welkom{
    font-size:50px;
    font-family: consolas;
    color:#004D0D;
@@ -7,6 +10,9 @@ h1.Welkom{
     2px -2px 0 black,
     -2px 2px 0 black,
     2px 2px 0 black;
+}
+h2.midden{
+  text-align: center;
 }
 ul.menu{
   border:5px solid DarkRed;
@@ -35,7 +41,20 @@ a.terug{
   font-family: consolas;
   font-weight: bolder;
 }
-
+a.strip{
+  font-family: consolas;
+  color: rgb(16,99,27);
+  font-weight: bolder;
+  font-size: 30px;
+  text-shadow:
+   -2px -2px 0 black,
+   2px -2px 0 black,
+   -2px 2px 0 black,
+   2px 2px 0 black;
+}
+h2.lezen{
+  font-family: consolas;
+}
 footer{
   position: fixed;
   text-align: center;
