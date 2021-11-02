@@ -10,6 +10,7 @@ header.Welkom{
     2px -2px 0 black,
     -2px 2px 0 black,
     2px 2px 0 black;
+    padding-top: 30px
 }
 h2.midden{
   text-align: center;
@@ -20,11 +21,20 @@ ul.menu{
   padding: 10px;
   background-color: black;
   width: 202px;
+  display:inline;
 }
+ul.menu:hover{
+  /* width: 208px; */
+}
+
 li.menu{
   padding:3px;
   border: 5px solid Maroon;
   display: inline;
+}
+li.menu:hover{
+  padding:6px;
+
 }
 a.gedaan{
   font-size: 30px;
@@ -81,4 +91,7 @@ h2{
 p{
   font-family: consolas;
   padding: 10px;
+}
+p.info{
+  padding-right:200px;
 }
