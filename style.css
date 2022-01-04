@@ -109,3 +109,9 @@ p.strip{
 img{
 width: 60%;
 padding: 15px;
+}
+h1.oex{
+  font-family: consolas;
+  font-size: 40px;
+  font-weight: bolder;
+}
